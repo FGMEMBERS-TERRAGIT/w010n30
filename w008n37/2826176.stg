@@ -1,0 +1,13 @@
+OBJECT_SHARED Models/Airport/ndb.ac -7.925931 37.008742 2.98 180
+OBJECT_SHARED Models/Airport/ils.xml -7.962553 37.012419 3.2 79.49
+OBJECT_SHARED Models/Communications/vordme_1.xml -7.975008 37.013522 2.67 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -7.962553 37.012419 3.2 180
+OBJECT_SHARED Models/Airport/localizer.xml -7.987819 37.017572 1.57 10.16
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -7.8601736 37.0090832 -0.58 265.53
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -7.8590756 37.0015886 0.24 335.51
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -7.83779 37.02082 -2.22 199.49
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -7.8556198 37.0135823 0.09 330.61
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -7.8443741 37.0177259 0.19 325.63
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -7.8416149 37.02227 2.82 14.99
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -7.84031 37.01827 0.07 124.41
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -7.8376115 37.0224778 1.08 267.68
