@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<path>LEAB_Firefighters.ac</path>
+
+<!-- Do not render some details in long distances -->
+<animation>
+	<type>range</type>
+	<object-name>CargoColumns</object-name>
+	<object-name>CargoDoors</object-name>
+	<object-name>Engine</object-name>
+	<min-m>0</min-m>
+	<max-m>500</max-m>
+</animation>
+<animation>
+	<type>material</type> 
+	<object-name>CargoMain</object-name>
+	<condition>		
+		<greater-than>		
+		<property>/sim/time/sun-angle-rad</property>
+		<value>1.57</value>
+		</greater-than>
+	</condition>
+	<emission>	
+		<red>0.2</red>	
+		<green>0.2</green>	
+		<blue>0.2</blue>
+	</emission>
+</animation>
+</PropertyList>

@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -7.3925172 37.154519 -1.68 281.06
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -7.3970789 37.1513465 -2.49 229.92
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -7.3970056 37.1458411 -4.04 176.54
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -7.416063 37.186626 10.63 0
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac -7.3945064 37.146828 -3.83 293.04
