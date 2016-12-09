@@ -15,6 +15,7 @@ OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -2.37012346 36.84703635 16.1
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -2.36972747 36.84728598 16.67 0
 OBJECT_SHARED Models/Airport/hangar5.xml -2.37273113 36.84680285 16.29 17.6
 OBJECT_SHARED Models/Airport/hangar5.xml -2.36931731 36.84732545 16.66 16
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -2.46415 36.8259167 -2.4 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -2.43105 36.8054003 -0.69 117.74
 OBJECT_SHARED Models/StreetFurniture/carpark.ac -2.37330003 36.84746172 20.43 16
 OBJECT_SHARED Models/StreetFurniture/carpark.ac -2.37325359 36.84733551 18.97 16

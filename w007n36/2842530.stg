@@ -6,7 +6,11 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -6.3081827 36.5616382 -1.15 267.2
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -6.2984398 36.5577949 -0.92 141.13
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -6.281935 36.556188 -0.42 9.87
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.357235 36.615948 6.01 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.3572 36.6160333 4.53 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.31617 36.528313 0 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.3159667 36.5283167 -2.4 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.2908833 36.5312333 0.91 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.2632167 36.5015 8.96 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac -6.3325016 36.5656409 -1.89 348.55
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -6.2930328 36.5755895 -1.09 288.17
 OBJECT_STATIC tcom_girona.ac -6.286085 36.5199228 12.66 0
