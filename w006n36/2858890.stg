@@ -39,6 +39,8 @@ OBJECT_SHARED Models/Airport/EDFH-westconnector-n.xml -5.34807718 36.15352906 2.
 OBJECT_SHARED Models/Airport/hangar5.xml -5.34552166 36.1535532 3.26 83.6
 OBJECT_SHARED Models/Airport/hangar5.xml -5.34472093 36.15364314 3.23 72
 OBJECT_SHARED Models/Sport/GenericStadium.xml -5.3406176 36.15842483 3.18 264
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -5.3658833 36.1440833 -2.4 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -5.30045 36.2437167 2.19 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -5.300433 36.243717 4.65 0
 OBJECT_SHARED Models/Sport/TennisCourt.ac -5.3413863 36.15600553 2.5 264
 OBJECT_SHARED Models/Misc/toro_osborne.ac -5.481036111 36.174908333 51.71 350

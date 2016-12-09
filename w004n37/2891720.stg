@@ -3,3 +3,4 @@ OBJECT_SHARED Models/Communications/vordme_1.xml -3.990906 37.183178 589.06 180
 OBJECT_SHARED Models/Airport/marker.ac -3.87835 37.187914 569.93 180
 OBJECT_SHARED Models/Airport/marker.ac -3.805881 37.188542 561.92 180
 OBJECT_SHARED Models/Airport/localizer.xml -3.758281 37.188869 565.27 179.48
+OBJECT_SHARED Models/Airport/LFBI_Tower.ac -3.777001 37.18504 567.28 0

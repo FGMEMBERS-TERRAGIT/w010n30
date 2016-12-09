@@ -2,4 +2,7 @@ OBJECT_SHARED Models/Airport/ndb.ac -6.316806 36.642083 7.89 180
 OBJECT_SHARED Models/Airport/ils.xml -6.366569 36.646039 18.83 261.92
 OBJECT_SHARED Models/Airport/tacan.xml -6.349058 36.647858 25.32 180
 OBJECT_SHARED Models/Airport/localizer.xml -6.323578 36.642675 10.35 186.96
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.44215 36.738 -1.09 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.442033 36.73785 2.14 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.3471333 36.6354833 28.88 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.3296167 36.62805 8.89 0
