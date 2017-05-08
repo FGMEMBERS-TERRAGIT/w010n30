@@ -2,3 +2,9 @@ OBJECT_SHARED Models/Airport/ils.xml -8.885508 39.840111 51.53 177.97
 OBJECT_SHARED Models/Airport/tacan.xml -8.890144 39.832614 57.29 180
 OBJECT_SHARED Models/Airport/marker.ac -8.886447 39.851808 47.72 180
 OBJECT_SHARED Models/Airport/localizer.xml -8.887828 39.816975 46.7 271.74
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -8.82125 39.78000 36.79 359.49
+OBJECT_SHARED Models/lib/SmHangar.ac -8.82114 39.78034 36.16 185
+# END dsf2stg
