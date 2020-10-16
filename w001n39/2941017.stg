@@ -8,3 +8,4 @@ OBJECT_SHARED Models/lib/rw-guard-lights.ac -0.50062 39.49759 70.76 270
 OBJECT_SHARED Models/lib/rw-guard-lights.ac -0.50024 39.49728 70.64 63.9
 OBJECT_SHARED Models/lib/rw-guard-lights.ac -0.50023 39.49728 70.63 237.19
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml -0.505666 39.498473 73.04 63.25
